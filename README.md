@@ -34,4 +34,4 @@
 - This project was based on similar projects in machine learning and predictive analytics.
 
 ## Contact
-Created by [@ankitsurana002] - feel free to contact me!
+Created by [AnkitSurana](https://github.com/AnkitSurana/) - feel free to contact me!
