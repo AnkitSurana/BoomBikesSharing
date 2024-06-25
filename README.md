@@ -26,7 +26,7 @@ This project aims to predict the demand for shared bikes post-Covid-19 lockdowns
 ---
 
 ## General Information
-This project utilizes a multiple linear regression model to predict bike demand based on various factors such as weather conditions, seasonality, and other demographic variables. The dataset (`day.csv`) includes daily bike demand data across the American market, covering features like temperature, humidity, season, and more.
+This project utilizes a multiple linear regression model to predict bike demand based on various factors such as weather conditions, seasonality, and other demographic variables. The [dataset](day.csv) includes daily bike demand data across the American market, covering features like temperature, humidity, season, and more.
 
 ## Technologies Used
 - Python 3.10.4
